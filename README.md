@@ -1,4 +1,4 @@
-<h1>Building things that work, learning things that matter.<h1>
+<h2>Building things that work, learning things that matter.</h2>
 
 Hi, I’m Mangesh — a Computer Engineering student and full-stack developer who loves turning ideas into real web applications.
 From HTML, CSS, JavaScript to Node.js, Express, MongoDB, I enjoy exploring all layers of technology and crafting solutions that are clean, efficient, and scalable. 🌐✨
