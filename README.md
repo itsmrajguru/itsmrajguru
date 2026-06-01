@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mangesh Rajguru</h1>
+<h1 align="center">Hi 👋, I'm Mangesh S Rajguru</h1>
 
 - 🌱 I’m **Full Stack Web Developer**
 
